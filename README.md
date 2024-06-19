@@ -3,3 +3,5 @@ This project is a web application which will generate a map showing the user's c
 The starter code for this app was acquired directly from Google by following this documentation: https://developers.google.com/codelabs/maps-platform/maps-platform-101-react-js#0. It has been modified to add the functionality described above.
 
 This project is part of my midterm for INFO 4235.
+
+Here is a link to the live web app:
