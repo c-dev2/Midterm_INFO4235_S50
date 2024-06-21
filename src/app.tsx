@@ -14,6 +14,9 @@
  * limitations under the License.
 */
 
+// Code acquired from Google documentation: https://developers.google.com/codelabs/maps-platform/maps-platform-101-react-js#0
+// License/copyright notice retained above even though this file has been modified by me.
+
 import React, {useState, useEffect} from 'react';
 import { createRoot } from "react-dom/client";
 import {APIProvider, Map, AdvancedMarker, Pin, InfoWindow, useAdvancedMarkerRef} from '@vis.gl/react-google-maps';
